@@ -1,0 +1,12 @@
+ileri
+sağa
+gemi açısı5.0
+gemi açısı10.0
+gemi açısı15.0
+gemi açısı20.0
+gemi açısı25.0
+gemi açısı30.0
+vurdu
+vurdu
+vurdu
+vurdu
